@@ -10,10 +10,10 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
-:Jyoti Devi--|:--|
-<b> Institute REC Banda | <b>  
-<b> Email id|     <b>  
+<b>Name of Developer | <b> Jyoti Devi
+:--|:--|
+<b> Institute Rajkiya Engineering College Banda | <b>  
+<b> Email id| jyoti2006ratnesh@gmail.com    <b>  
 <b> Department |  
 
 ### Contributors List
